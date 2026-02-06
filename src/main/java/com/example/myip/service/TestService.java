@@ -1,6 +1,6 @@
-package com.example.myip.domain;
+package com.example.myip.service;
 
-import com.example.myip.HttpUtil;
+import com.example.myip.util.HttpUtil;
 import com.example.myip.dto.AccessTokenResponse;
 import com.example.myip.dto.TaskIdRequest;
 import com.example.myip.dto.UserDataResponse;
@@ -9,7 +9,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
-import tools.jackson.databind.ObjectMapper;
 
 import java.util.HashMap;
 

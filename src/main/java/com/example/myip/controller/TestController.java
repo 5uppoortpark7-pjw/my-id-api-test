@@ -1,6 +1,6 @@
 package com.example.myip.controller;
 
-import com.example.myip.domain.TestService;
+import com.example.myip.service.TestService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

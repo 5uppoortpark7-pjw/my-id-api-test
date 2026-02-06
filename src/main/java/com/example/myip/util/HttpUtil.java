@@ -1,4 +1,4 @@
-package com.example.myip;
+package com.example.myip.util;
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

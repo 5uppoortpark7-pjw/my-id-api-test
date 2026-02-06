@@ -1,6 +1,5 @@
 package com.example.myip.dto;
 
-import com.example.myip.RequestType;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 import org.springframework.web.multipart.MultipartFile;

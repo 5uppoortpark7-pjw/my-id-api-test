@@ -1,4 +1,4 @@
-package com.example.myip;
+package com.example.myip.dto;
 
 public enum RequestType {
     LIVENESS_COMPARISON,
